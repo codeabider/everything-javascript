@@ -1,0 +1,111 @@
+body {
+  align-items: center;
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 200, 255),
+    rgb(255, 251, 0)
+  );
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.clock-container {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  border: 15px solid #fff;
+  color: #fff;
+  height: 500px;
+  position: relative;
+  width: 500px;
+}
+
+.clock-container .number {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 2rem;
+  height: 100%;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.clock-container .number.number-1 {
+  transform: rotate(30deg);
+}
+.clock-container .number.number-2 {
+  transform: rotate(60deg);
+}
+.clock-container .number.number-3 {
+  transform: rotate(90deg);
+}
+.clock-container .number.number-4 {
+  transform: rotate(120deg);
+}
+.clock-container .number.number-5 {
+  transform: rotate(150deg);
+}
+.clock-container .number.number-6 {
+  transform: rotate(180deg);
+}
+.clock-container .number.number-7 {
+  transform: rotate(210deg);
+}
+.clock-container .number.number-8 {
+  transform: rotate(240deg);
+}
+.clock-container .number.number-9 {
+  transform: rotate(270deg);
+}
+.clock-container .number.number-10 {
+  transform: rotate(300deg);
+}
+.clock-container .number.number-11 {
+  transform: rotate(330deg);
+}
+
+.clock-container .hand {
+  --rotate: 300;
+  background-color: rgba(208, 129, 11, 0.9);
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  bottom: 50%;
+  height: 170px;
+  left: 50%;
+  position: absolute;
+  transform-origin: bottom;
+  transform: translateX(-40%) rotateZ(calc(var(--rotate) * 1deg));
+  transition: transform ease-in 250ms;
+  width: 20px;
+}
+
+.clock-container::after {
+  background-color: #fff;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  content: '';
+  height: 25px;
+  position: absolute;
+  width: 25px;
+  z-index: 1;
+}
+
+.clock-container .hand.minute {
+  --rotate: 60;
+  background-color: rgba(208, 96, 11, 0.9);
+  height: 220px;
+  transform: translateX(-35%) rotateZ(calc(var(--rotate) * 1deg));
+  width: 15px;
+  z-index: 1;
+}
+
+.clock-container .hand.second {
+  --rotate: 30;
+  background-color: rgba(255, 255, 255, 0.9);
+  height: 230px;
+  transform: translateX(-35%) rotateZ(calc(var(--rotate) * 1deg));
+  width: 3px;
+  z-index: 2;
+}
