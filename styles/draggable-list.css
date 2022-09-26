@@ -1,0 +1,25 @@
+.to-do-container,
+.completed-container {
+  background-color: #eee;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid;
+}
+
+.completed-container {
+  background-color: #cbfadc;
+}
+
+.to-do-container .item,
+.completed-container .item {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid gray;
+  cursor: move;
+}
+
+.to-do-container .item.dragging,
+.completed-container .item.dragging {
+  background-color: #fae4cb;
+  opacity: 0.6;
+}

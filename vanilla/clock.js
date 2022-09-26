@@ -6,7 +6,7 @@ const updateClock = () => {
   const now = new Date();
 
   const second = now.getSeconds();
-  const secondRotation = second * 6;
+  const secondRotation = second * 6; // TODO: resolve second hand rotation jump 0, 360
   setRotation(secondHandElemRef, secondRotation);
 
   const minute = now.getMinutes();
@@ -16,8 +16,6 @@ const updateClock = () => {
   const hour = now.getHours();
   const hourRotation = ((hour % 12) + minute / 60) * 30;
   setRotation(hourHandElemRef, hourRotation);
-
-  console.log(secondRotation);
 };
 
 const setRotation = (elemRef, rotation) => {
