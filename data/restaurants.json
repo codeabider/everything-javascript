@@ -1,0 +1,1839 @@
+{
+    "cards": [
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "548151",
+                    "name": "Kaka Halwai Sweet Center",
+                    "uuid": "e75b5847-f93d-42da-9b21-ae1688eb640f",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "20+ ratings",
+                    "cloudinaryImageId": "tocfvzgxj48pvkp7wcq2",
+                    "cuisines": [
+                        "Sweets",
+                        "Desserts",
+                        "Snacks"
+                    ],
+                    "tags": [],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 33,
+                    "minDeliveryTime": 33,
+                    "maxDeliveryTime": 33,
+                    "slaString": "33 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "shree-guruprasad-enterprises-llp-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Krushnai Niwas, Dattanagar Road, Wakad Pune, PUNE PCMC ward No-26, Pune PCMC(Maharashtra) -411057",
+                    "locality": "Krushnai Niwas",
+                    "parentId": 326020,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "548151",
+                        "deliveryTime": 33,
+                        "minDeliveryTime": 33,
+                        "maxDeliveryTime": 33,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 20,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "147149",
+                    "name": "Nutri Narcos",
+                    "uuid": "159b5da3-2802-4553-8ca0-8108b77d9cfc",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "50+ ratings",
+                    "cloudinaryImageId": "u6wj7lcd2ryavs3wfcfs",
+                    "cuisines": [
+                        "Healthy Food",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 15000,
+                    "costForTwoString": "₹150 FOR TWO",
+                    "deliveryTime": 42,
+                    "minDeliveryTime": 42,
+                    "maxDeliveryTime": 42,
+                    "slaString": "42 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "nutri-narcos-hinjawadi-hinjewadi",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Near Khaniya pure veg  Yamuna Nagar, wakad",
+                    "locality": "Apostrophe back gate,Yamunanagar Rd",
+                    "parentId": 150577,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "Free delight",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Free delight on orders above ₹399",
+                                "discountType": "Freebie",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Free delight on orders above ₹399",
+                                "discountType": "Freebie",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Free delight",
+                                "discountType": "Freebie",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Free delight on orders above ₹399",
+                                "discountType": "Freebie",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "147149",
+                        "deliveryTime": 42,
+                        "minDeliveryTime": 42,
+                        "maxDeliveryTime": 42,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "3.4",
+                    "totalRatings": 50,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "326217",
+                    "name": "Chole Kulche",
+                    "uuid": "cc96cef1-67bf-41b3-b6a9-ac5daf31e696",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "uhonoi7fvc3doposeasz",
+                    "cuisines": [
+                        "Punjabi",
+                        "Thalis",
+                        "Snacks",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 24900,
+                    "costForTwoString": "₹249 FOR TWO",
+                    "deliveryTime": 41,
+                    "minDeliveryTime": 41,
+                    "maxDeliveryTime": 41,
+                    "slaString": "41 MINS",
+                    "lastMileTravel": 1.7000000476837158,
+                    "slugs": {
+                        "restaurant": "chole-kulche-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Shop no 10, F-building, Regalia Apartments, Yamunanagar Rd, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra",
+                    "locality": "Regalia Apartments",
+                    "parentId": 62570,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "40% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "40% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "40% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.7 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "326217",
+                        "deliveryTime": 41,
+                        "minDeliveryTime": 41,
+                        "maxDeliveryTime": 41,
+                        "lastMileTravel": 1.7000000476837158,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "3.9",
+                    "totalRatings": 100,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "82765",
+                    "name": "Delhi Swad",
+                    "uuid": "9dbf1cb9-25f3-4f6f-bf29-affe1b3f7881",
+                    "city": "6",
+                    "area": "Wakad - Pune",
+                    "totalRatingsString": "20+ ratings",
+                    "cloudinaryImageId": "j8kvs2hjybhaaxltbkwu",
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 47,
+                    "minDeliveryTime": 47,
+                    "maxDeliveryTime": 47,
+                    "slaString": "47 MINS",
+                    "lastMileTravel": 1.5,
+                    "slugs": {
+                        "restaurant": "delhi-swad-chhatrapati-chowk-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Morya Colony, Nimbalkar Nagar, Survey No.42/2, Tathawde, Pune-411033.  Near Shri Engineering Enterprises",
+                    "locality": "Wakad",
+                    "parentId": 11942,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.5 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "82765",
+                        "deliveryTime": 47,
+                        "minDeliveryTime": 47,
+                        "maxDeliveryTime": 47,
+                        "lastMileTravel": 1.5,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "3.3",
+                    "totalRatings": 20,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "97607",
+                    "name": "Hotel Barsa",
+                    "uuid": "01aad7e5-e76f-4dff-a0e4-68f1b383357f",
+                    "city": "6",
+                    "area": "Shankar Kalat Nagar, Wakad Mulshi, Pune, Maharasht",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "yzz1qc5iimzxlalgpf2p",
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 50000,
+                    "costForTwoString": "₹500 FOR TWO",
+                    "deliveryTime": 43,
+                    "minDeliveryTime": 43,
+                    "maxDeliveryTime": 43,
+                    "slaString": "43 MINS",
+                    "lastMileTravel": 1.5,
+                    "slugs": {
+                        "restaurant": "hotel-barsa-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Kalakhadak Road, Wakad, Pune",
+                    "locality": "Wakad",
+                    "parentId": 98303,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.5 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "97607",
+                        "deliveryTime": 43,
+                        "minDeliveryTime": 43,
+                        "maxDeliveryTime": 43,
+                        "lastMileTravel": 1.5,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "400073",
+                    "name": "Healthy Food",
+                    "uuid": "596d7490-eda2-4db1-8db4-aa6f4d3f6353",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "eay7wv0bjyubkubaorho",
+                    "cuisines": [
+                        "Indian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 38,
+                    "minDeliveryTime": 38,
+                    "maxDeliveryTime": 38,
+                    "slaString": "38 MINS",
+                    "lastMileTravel": 1.2999999523162842,
+                    "slugs": {
+                        "restaurant": "healthy-food-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "S.No. 13/17 Santosh nagar, Nrnagu barnae SCL, Thergaon, Wakad",
+                    "locality": "Nrnagu Barnae Scl",
+                    "parentId": 14813,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.2 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "400073",
+                        "deliveryTime": 38,
+                        "minDeliveryTime": 38,
+                        "maxDeliveryTime": 38,
+                        "lastMileTravel": 1.2999999523162842,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "20223",
+                    "name": "Oven Story Pizza",
+                    "uuid": "637d2de6-d3f3-46ad-8c45-d044050fadb6",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "500+ ratings",
+                    "cloudinaryImageId": "u6hzu2vzpakqvlpuqtqm",
+                    "cuisines": [
+                        "Pizzas",
+                        "Italian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 40000,
+                    "costForTwoString": "₹400 FOR TWO",
+                    "deliveryTime": 40,
+                    "minDeliveryTime": 40,
+                    "maxDeliveryTime": 40,
+                    "slaString": "40 MINS",
+                    "lastMileTravel": 2,
+                    "slugs": {
+                        "restaurant": "ovenstory-wakad-tal-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Choudhary Park, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+                    "locality": "Wakad",
+                    "parentId": 3534,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": true,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "Flat ₹125 off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249 | Use code FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "₹125 OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249 | Use code FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "2 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "20223",
+                        "deliveryTime": 40,
+                        "minDeliveryTime": 40,
+                        "maxDeliveryTime": 40,
+                        "lastMileTravel": 2,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.0",
+                    "totalRatings": 500,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "562973",
+                    "name": "Famous Restaurant",
+                    "uuid": "862edd07-856f-4803-b442-30e7739d50f6",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "l6gmlafnui2gqobswpyr",
+                    "cuisines": [
+                        "North Indian",
+                        "Biryani"
+                    ],
+                    "tags": [],
+                    "costForTwo": 50000,
+                    "costForTwoString": "₹500 FOR TWO",
+                    "deliveryTime": 35,
+                    "minDeliveryTime": 35,
+                    "maxDeliveryTime": 35,
+                    "slaString": "35 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "famous-restaurant-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "OPP KANHAIYA PARK PADWAL NAGAR THERGAON\t411033",
+                    "locality": "Wakad",
+                    "parentId": 78498,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "562973",
+                        "deliveryTime": 35,
+                        "minDeliveryTime": 35,
+                        "maxDeliveryTime": 35,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "581629",
+                    "name": "HOTEL TASTE AND FLAVOUR",
+                    "uuid": "539d7f6c-e1cd-4fee-95e8-77681c827499",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "ncqhnkhldtsc4fiqmfgk",
+                    "cuisines": [
+                        "Seafood",
+                        "North Indian",
+                        "Thalis",
+                        "Biryani"
+                    ],
+                    "tags": [],
+                    "costForTwo": 15000,
+                    "costForTwoString": "₹150 FOR TWO",
+                    "deliveryTime": 47,
+                    "minDeliveryTime": 47,
+                    "maxDeliveryTime": 47,
+                    "slaString": "47 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "hotel-taste-and-flavour-wakad-wakad-2",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "S NO - 174/3/1, NEAR POSTAL COLONY, WAKAD ROAD, WAKAD, PUNE PCMC WARD NO 60, PUNE PCMC MAHARSHTRA",
+                    "locality": "Near Postal Colony",
+                    "parentId": 280688,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "40% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "40% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "40% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "581629",
+                        "deliveryTime": 47,
+                        "minDeliveryTime": 47,
+                        "maxDeliveryTime": 47,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "197247",
+                    "name": "The Belgian Waffle Co.",
+                    "uuid": "86cd32bc-9265-4555-b5e7-e6c7e3c76194",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "zpgeoldqmfxquxvizvfd",
+                    "cuisines": [
+                        "Waffle",
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 34,
+                    "minDeliveryTime": 34,
+                    "maxDeliveryTime": 34,
+                    "slaString": "34 MINS",
+                    "lastMileTravel": 1.899999976158142,
+                    "slugs": {
+                        "restaurant": "the-belgian-waffle-co-costa-rica-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "NO 06, OMEGA PAREDIES, PHASE 2 NR COSTA RICA OPP FLUTE HOTEL, WAKAD, PUNE, , PUNE PCMC ward No-88, Pune, Maharashtra-411057",
+                    "locality": "Costa Rica",
+                    "parentId": 2233,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "20% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "20% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "20% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.8 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "197247",
+                        "deliveryTime": 34,
+                        "minDeliveryTime": 34,
+                        "maxDeliveryTime": 34,
+                        "lastMileTravel": 1.899999976158142,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.4",
+                    "totalRatings": 100,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "7985",
+                    "name": "Rolls Mania",
+                    "uuid": "07dde863-9cef-4e9b-bb12-ebe3ba853ad7",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "500+ ratings",
+                    "cloudinaryImageId": "s2pw2hyi16cbniog26m2",
+                    "cuisines": [
+                        "Fast Food",
+                        "Snacks",
+                        "Combo"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 33,
+                    "minDeliveryTime": 33,
+                    "maxDeliveryTime": 33,
+                    "slaString": "33 MINS",
+                    "lastMileTravel": 2.0999999046325684,
+                    "slugs": {
+                        "restaurant": "rolls-mania-yamuna-nagar-road-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Shop no 10, Skyline Complex , Yamuna Nagar Road , Opposite Horizon App, Wakad",
+                    "locality": "Yamuna Nagar Road",
+                    "parentId": 171118,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": true,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "50% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "50% off | Use MISSEDYOU",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "50% off up to ₹100 | Use code MISSEDYOU",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "50% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use MISSEDYOU",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "50% off up to ₹100 | Use code MISSEDYOU",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "2 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "7985",
+                        "deliveryTime": 33,
+                        "minDeliveryTime": 33,
+                        "maxDeliveryTime": 33,
+                        "lastMileTravel": 2.0999999046325684,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.2",
+                    "totalRatings": 500,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "234623",
+                    "name": "Food China -Momos and Noodles",
+                    "uuid": "59b5df5c-b703-490e-8184-95797f9e0417",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "50+ ratings",
+                    "cloudinaryImageId": "tyopxatvtciuz5qq5xlv",
+                    "cuisines": [
+                        "Chinese",
+                        "Tibetan",
+                        "Fast Food",
+                        "Snacks",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 47,
+                    "minDeliveryTime": 47,
+                    "maxDeliveryTime": 47,
+                    "slaString": "47 MINS",
+                    "lastMileTravel": 1.7000000476837158,
+                    "slugs": {
+                        "restaurant": "food-china--momos-and-noodles-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "shop no.10,F building,regalia apartment, Yamunanagar Rd, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+                    "locality": "Regalia Apartment",
+                    "parentId": 22104,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "40% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "40% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "40% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.7 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "234623",
+                        "deliveryTime": 47,
+                        "minDeliveryTime": 47,
+                        "maxDeliveryTime": 47,
+                        "lastMileTravel": 1.7000000476837158,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "3.9",
+                    "totalRatings": 50,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "449900",
+                    "name": "Greek",
+                    "uuid": "761e96b2-0b9f-4f3c-9acc-ac26e394bfb7",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "y2uc1dpn5tugxxdziolr",
+                    "cuisines": [
+                        "Chinese",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 35000,
+                    "costForTwoString": "₹350 FOR TWO",
+                    "deliveryTime": 33,
+                    "minDeliveryTime": 33,
+                    "maxDeliveryTime": 33,
+                    "slaString": "33 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "greek-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Sr 174/3/2, Datta CL, Near Axis Bank Datta Mandir road, wakad, Pune411057",
+                    "locality": "Near Axis Bank",
+                    "parentId": 270647,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "Flat ₹125 off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249 | Use code FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "₹125 OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹125 off on orders above ₹249 | Use code FLAT125",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "449900",
+                        "deliveryTime": 33,
+                        "minDeliveryTime": 33,
+                        "maxDeliveryTime": 33,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "440964",
+                    "name": "Chaayos Chai+Snacks=Relax",
+                    "uuid": "76971681-ed0a-4382-88c4-0ba8166b525c",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "du0xsfmajmrp48ypillx",
+                    "cuisines": [
+                        "Bakery",
+                        "Beverages",
+                        "Chaat",
+                        "Desserts",
+                        "Home Food",
+                        "Italian",
+                        "Maharashtrian",
+                        "Snacks",
+                        "Street Food",
+                        "Sweets"
+                    ],
+                    "tags": [],
+                    "costForTwo": 50000,
+                    "costForTwoString": "₹500 FOR TWO",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "slaString": "29 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                        "restaurant": "ghee-and-turmeric-chaayos-kharadi-kharadi",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Shop No - 4, Laxmitara Market, C.T.S. No - 4918, Near Dange Chowk, Ravet, Wakad Road, Wakad, Thergaon, Mulshi, Pune, Mulshi & Vella, Pune PMC & Rural, Maharashtra - 411033",
+                    "locality": "Laxmitara Market",
+                    "parentId": 281782,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "50% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "50% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "50% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "440964",
+                        "deliveryTime": 29,
+                        "minDeliveryTime": 29,
+                        "maxDeliveryTime": 29,
+                        "lastMileTravel": 1.600000023841858,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 100,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "198274",
+                    "name": "World Of Cheese Pizza",
+                    "uuid": "2c9c4f38-60e8-46fe-8ec4-ee912e2a5a2c",
+                    "city": "6",
+                    "area": "Tathawade",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "ymttov4eqiol0afu80rl",
+                    "cuisines": [
+                        "Pizzas",
+                        "Italian",
+                        "Pastas",
+                        "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 36,
+                    "minDeliveryTime": 36,
+                    "maxDeliveryTime": 36,
+                    "slaString": "36 MINS",
+                    "lastMileTravel": 2,
+                    "slugs": {
+                        "restaurant": "world-of-cheese-pizza-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Vision One Mall, Tathawade, Pune, Maharashtra, India",
+                    "locality": "Wakad",
+                    "parentId": 226601,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "20% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "20% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "20% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "2 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "198274",
+                        "deliveryTime": 36,
+                        "minDeliveryTime": 36,
+                        "maxDeliveryTime": 36,
+                        "lastMileTravel": 2,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 100,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        },
+        {
+            "cardType": "restaurant",
+            "layoutAlignmentType": "VERTICAL",
+            "data": {
+                "type": "restaurant",
+                "data": {
+                    "type": "F",
+                    "id": "585867",
+                    "name": "Champaran The Handi House",
+                    "uuid": "d120fa9e-174e-494d-84ed-8726cad7d0b3",
+                    "city": "6",
+                    "area": "Wakad",
+                    "totalRatingsString": "50+ ratings",
+                    "cloudinaryImageId": "gqmv6dqfobk2toqs2it6",
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 44900,
+                    "costForTwoString": "₹449 FOR TWO",
+                    "deliveryTime": 39,
+                    "minDeliveryTime": 39,
+                    "maxDeliveryTime": 39,
+                    "slaString": "39 MINS",
+                    "lastMileTravel": 1.7000000476837158,
+                    "slugs": {
+                        "restaurant": "champaran-the-handi-house-wakad-wakad",
+                        "city": "pune"
+                    },
+                    "cityState": "6",
+                    "address": "Horizons Apartment Tower-B, Choudhary Park, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057, India",
+                    "locality": "Shankar Kalat Nagar",
+                    "parentId": 350572,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "aggregatedDiscountInfo": {
+                        "header": "10% off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "10% off | Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "10% off up to ₹40 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "aggregatedDiscountInfoV2": {
+                        "header": "10% OFF",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Use TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "10% off up to ₹40 | Use code TRYNEW",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "subHeader": "",
+                        "headerType": 0,
+                        "superFreedel": ""
+                    },
+                    "chain": [],
+                    "feeDetails": {
+                        "fees": [],
+                        "totalFees": 0,
+                        "message": "",
+                        "title": "",
+                        "amount": "",
+                        "icon": ""
+                    },
+                    "availability": {
+                        "opened": true,
+                        "nextOpenMessage": "",
+                        "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                        "imageBased": [],
+                        "textBased": [],
+                        "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.7 kms",
+                    "hasSurge": false,
+                    "sla": {
+                        "restaurantId": "585867",
+                        "deliveryTime": 39,
+                        "minDeliveryTime": 39,
+                        "maxDeliveryTime": 39,
+                        "lastMileTravel": 1.7000000476837158,
+                        "lastMileDistance": 0,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "NONE",
+                        "longDistance": "NOT_LONG_DISTANCE",
+                        "preferentialService": false,
+                        "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.0",
+                    "totalRatings": 50,
+                    "new": false
+                },
+                "subtype": "basic"
+            }
+        }
+    ]
+}

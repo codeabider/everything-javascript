@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Food Delivery</title>
+    <link rel="stylesheet" href="./styles/food-delivery.css" />
+    <script type="module" src="./vanilla/food-delivery.js" defer></script>
+  </head>
+
+  <body>
+    <header>Friggy</header>
+    <main class="main-container">
+      <input
+        type="text"
+        placeholder="search by restaurant name or cuisine"
+        id="search-input"
+      />
+      <section>
+        <h4>Sort by:</h4>
+        <!-- TODO: asc/ desc -->
+        <div id="sort-actions">
+          <button>Ratings</button>
+          <button>Delivery Time</button>
+          <button>Price for two</button>
+        </div>
+      </section>
+      <section class="filters-container">
+        <h4>Filters:</h4>
+        <div id="filter-actions">
+          <button>only veg</button>
+        </div>
+      </section>
+      <button id="clear">Clear</button>
+      <section class="cards-container" id="restaurant-list"></section>
+      <section class="error-container" id="error"></section>
+      <section class="loader" id="loader">Loading...</section>
+    </main>
+    <footer>All rights reserved.</footer>
+  </body>
+</html>

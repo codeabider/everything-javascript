@@ -1,0 +1,102 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+}
+
+.hidden {
+  display: none;
+}
+
+.main-container .error-container {
+  color: red;
+}
+
+.main-container .loader {
+  color: blue;
+}
+
+.main-container .cards-container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.main-container .cards-container .card {
+  --scale: 1;
+  border-radius: 5px;
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin: 20px;
+  padding: 20px;
+  transform: scale(var(--scale));
+  transition: transform 250ms ease-in-out;
+}
+
+.main-container .cards-container .card:hover {
+  --scale: 1.05;
+}
+
+.main-container .cards-container .card .card__img {
+  width: 100%;
+}
+
+.main-container .cards-container .card .card__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-container .cards-container .card .card__rating {
+  background-color: #cecece;
+  border-radius: 5px;
+  display: inline-block;
+  max-width: 200px;
+  padding: 5px;
+  text-align: center;
+}
+
+.main-container .cards-container .card .card__rating.green {
+  background-color: #4a9801;
+}
+
+.main-container .cards-container .card .card__rating.light-green {
+  background-color: #c6ff90;
+}
+
+.main-container .cards-container .card .card__rating.yellow {
+  background-color: #fdff90;
+}
+
+.main-container .cards-container .card .card__rating.orange {
+  background-color: #ffc990;
+}
+
+.main-container .cards-container .card .card__rating.red {
+  background-color: #ff9090;
+}
+
+button.active {
+  background: green;
+  color: white;
+}
+
+button.asc {
+  background: yellow;
+}
+
+button.desc {
+  background: orange;
+}
+
+@media only screen and (min-width: 768px) {
+  .main-container .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .main-container .cards-container .card {
+    max-width: calc(25% - 20px);
+  }
+}
