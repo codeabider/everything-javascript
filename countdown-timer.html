@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Countdown Timer</title>
+    <link rel="stylesheet" href="./styles/countdown-timer.css" />
+    <script type="module" src="./vanilla/countdown-timer.js" defer></script>
+  </head>
+
+  <body>
+    <main class="main-container" id="container">
+      <div class="time-container">
+        <span class="time" id="hours" contenteditable="true">00</span>:
+        <span class="time" id="mins" contenteditable="true">00</span>:
+        <span class="time" id="secs" contenteditable="true">00</span>
+      </div>
+      <div class="btn-container">
+        <button class="btn start" id="action">start</button>
+        <button class="btn reset" id="reset">reset</button>
+      </div>
+    </main>
+  </body>
+</html>
